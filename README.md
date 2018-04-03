@@ -1,4 +1,10 @@
 # DoS-Attack
+Name - Denamo Markos 
+
+Id - ATR/1621/08
+
+SE Sec 01
+
 Ping of Death
 1. Open command prompt or Terminal 
 2. Find the website you want to attack
